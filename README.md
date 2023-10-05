@@ -1,5 +1,5 @@
 <h1
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3995&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Kumar" alt="Typing SVG" /></a> <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3995&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhat+Kumar+Tiwari" alt="Typing SVG" /></a> <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=1&pause=100000&width=435&lines=A+passionate+Software+developer." alt="Typing SVG" /></a>
 </h1>
 <p >
@@ -28,7 +28,7 @@
 
 
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **React js**
 
 - 🌱 I’m currently learning **API,Databases**
 
@@ -40,7 +40,7 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumit-kumar-a77482249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-kumar-a77482249/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabhat-tiwarii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhat-tiwarii/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/praishere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/praishere" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/praishere/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/praishere/" height="30" width="40" /></a>
 </p>
@@ -54,4 +54,3 @@
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit9676&label=Profile%20views&color=0e75b6&style=flat" alt="sumit9676" /> </p>
-
