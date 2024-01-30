@@ -28,13 +28,11 @@
 
 
 
-- 🔭 I’m currently working on **React js**
+- 🔭 I’m currently working as a **MERN Developer**
 
 - 🌱 I’m currently learning **API,Databases**
 
-- 💬 Ask me about **HTML,CSS,JS**
-
-- 📫 How to reach me **praishere@gmail.com**
+- 💬 Ask me about **MERN**
 
 - ⚡ Fun fact **I am not Funny**
 <br/>
